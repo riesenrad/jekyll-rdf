@@ -1,5 +1,5 @@
 # jekyll-rdf
-[![Build Status](https://travis-ci.org/DTP16/jekyll-rdf.png?branch=develop)](https://travis-ci.org/DTP16/jekyll-rdf) [![Coverage Status](https://coveralls.io/repos/github/DTP16/jekyll-rdf/badge.png?branch=develop)](https://coveralls.io/github/DTP16/jekyll-rdf?branch=develop)
+[![Build Status](https://travis-ci.org/DTP16/jekyll-rdf.png?branch=master)](https://travis-ci.org/DTP16/jekyll-rdf) [![Coverage Status](https://coveralls.io/repos/github/DTP16/jekyll-rdf/badge.png?branch=master)](https://coveralls.io/github/DTP16/jekyll-rdf?branch=master)
 
 A [Jekyll plugin](https://jekyllrb.com/docs/plugins/) for including RDF data in your static site.
 
